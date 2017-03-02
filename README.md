@@ -1,1 +1,1 @@
-# Set Perl-related stuff
+# Set of Perl-related stuff
